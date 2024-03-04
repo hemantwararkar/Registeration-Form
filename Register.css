@@ -2,6 +2,14 @@
     box-sizing: border-box;
     background-image: url("image.jpg");
 }
+.box {
+    height: 200px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    left: 38%;
+}
 
 .container {
     padding: 16px;
